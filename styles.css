@@ -1,0 +1,33 @@
+body{
+    background-color: azure;
+    text-align: center;
+    padding-top:150px;
+   
+}
+
+#container div{
+    margin:25px; 
+   
+}
+
+#btn{
+    font-size: 17px;
+    font-weight: 600;
+    background:black;
+    color:white;
+    height:40px;
+    width:130px;
+    border-radius: 8px;
+}
+
+#mobile{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#mobilenum{
+    height:35px;
+    width:200px;
+    border-radius: 10px;
+}
+
